@@ -20,4 +20,4 @@ This repository is a collection of Python scripts, projects, and experiments as 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/PyTrek.git
+   git clone https://github.com/sepsoleimanian/PyTrek.git
